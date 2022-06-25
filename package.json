@@ -10,7 +10,7 @@
     "express": "^4.16.3",
     "lodash": "^4.17.15",
     "mongodb": "^3.4.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "pusher": "^3.0.0"
   },
   "devDependencies": {
